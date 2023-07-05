@@ -9,3 +9,12 @@ The focal points of this project are:
 * Mastering the application of a fully connected layer to the output of the LSTM layer, to obtain predictions in the desired format and shape.
 
 Through this project, the intention is to familiarize oneself with the basic building blocks of LSTM, setting a robust foundation for more complex applications in the future.
+
+
+**<h3>Project 2(In Progress)</h3>** This project intends to do English to Hindi translation by closely implementing the key aspects of the  [paper](https://arxiv.org/abs/1409.3215).
+
+I am solving this problem in two parts.
+
+Part 1[ DONE ] : Converting the sentences into sequences. This will include removing NaN values, basic pre-processing (removing punctuation, converting to lower-case), tokenization and vocabulary creation.
+
+Part 2[In Progress] : Building and training the seq2seq model, following the paper closely.
