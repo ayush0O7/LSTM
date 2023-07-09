@@ -1,6 +1,6 @@
 ## Projects Developed primarily using LSTM in jupyter notebooks on kaggle.
 
-**<h3>Project 1</h3>** This project introduces the underlying principles of Long Short Term Memory (LSTM) networks through a straightforward sequence prediction task - forecasting the (n+1)th natural number based on a provided sequence of 'n' natural numbers.
+**<h3>Project 1 : Simple Sequence to sequence prediction</h3>** This project introduces the underlying principles of Long Short Term Memory (LSTM) networks through a straightforward sequence prediction task - forecasting the (n+1)th natural number based on a provided sequence of 'n' natural numbers.
 
 The focal points of this project are:
 
@@ -11,7 +11,7 @@ The focal points of this project are:
 Through this project, the intention is to familiarize oneself with the basic building blocks of LSTM, setting a robust foundation for more complex applications in the future.
 
 
-**<h3>Project 2(In Progress)</h3>** This project intends to do English to Hindi translation by closely implementing the key aspects of the  [paper](https://arxiv.org/abs/1409.3215).
+**<h3>Project 2 : Machine Translation(English to Hindi)(In Progress)</h3>** This project intends to do English to Hindi translation by closely implementing the key aspects of the  [paper](https://arxiv.org/abs/1409.3215).
 
 I am solving this problem in two parts.
 
